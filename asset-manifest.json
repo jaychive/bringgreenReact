@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f61d7d5.css",
-    "main.js": "/static/js/main.25b515e4.js",
-    "static/js/787.36f1cc3e.chunk.js": "/static/js/787.36f1cc3e.chunk.js",
-    "static/media/brand1.jpg": "/static/media/brand1.2ebe9955350d5eb956a9.jpg",
-    "static/media/main1.jpg": "/static/media/main1.a0bbf4923c7be7ae89c7.jpg",
-    "index.html": "/index.html",
-    "main.5f61d7d5.css.map": "/static/css/main.5f61d7d5.css.map",
-    "main.25b515e4.js.map": "/static/js/main.25b515e4.js.map",
-    "787.36f1cc3e.chunk.js.map": "/static/js/787.36f1cc3e.chunk.js.map"
+    "main.css": "/bringgreenReact/static/css/main.0c07524c.css",
+    "main.js": "/bringgreenReact/static/js/main.1e417120.js",
+    "static/js/787.36f1cc3e.chunk.js": "/bringgreenReact/static/js/787.36f1cc3e.chunk.js",
+    "static/media/brand1.jpg": "/bringgreenReact/static/media/brand1.2ebe9955350d5eb956a9.jpg",
+    "static/media/main1.jpg": "/bringgreenReact/static/media/main1.a0bbf4923c7be7ae89c7.jpg",
+    "index.html": "/bringgreenReact/index.html",
+    "main.0c07524c.css.map": "/bringgreenReact/static/css/main.0c07524c.css.map",
+    "main.1e417120.js.map": "/bringgreenReact/static/js/main.1e417120.js.map",
+    "787.36f1cc3e.chunk.js.map": "/bringgreenReact/static/js/787.36f1cc3e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f61d7d5.css",
-    "static/js/main.25b515e4.js"
+    "static/css/main.0c07524c.css",
+    "static/js/main.1e417120.js"
   ]
 }
